@@ -2,7 +2,7 @@
 #!desc=Modify the coordinates returned by Apple's network-based location service (WiFi/cell) | Shortcuts (recommended): Set Location https://www.icloud.com/shortcuts/182f3a014597468eb1b15b99261cdf22 Clear & Restore Location https://www.icloud.com/shortcuts/0352d53ed79849d382f50e9adf050662
 #!icon=https://raw.githubusercontent.com/elithan/wloc-spoofer-en/refs/heads/main/wloc.jpg
 #!author=Yu9191 Rewrite
-#!homepage=https://github.com/cyberhandyman/wloc-spoofer-en
+#!homepage=https://github.com/elithan/wloc-spoofer-en
 #!openUrl=https://wloc-spoofer.minnray.workers.dev/
 
 [Argument]
